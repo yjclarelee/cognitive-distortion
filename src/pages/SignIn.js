@@ -1,9 +1,10 @@
 import React from 'react';
+import SignUpButton from 'components/SignUpButton'
 
 export default function SignIn() {
   return (
     <div>
-      <h1>Sign in page</h1>
+      <SignUpButton></SignUpButton>
     </div>
   )
 }
